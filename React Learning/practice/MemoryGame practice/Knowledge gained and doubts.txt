@@ -1,0 +1,7 @@
+
+
+* The body of the website uses 100vh and the container inside the body utilize only small amount of space when height set to 100%
+
+* Study how [].sort(() => Math.random() - 0.5 ) works.
+
+* img:invalid { display: none; }
